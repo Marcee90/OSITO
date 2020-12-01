@@ -1,0 +1,18 @@
+body {
+  background-color:#8A084B
+}
+p {
+color:#F5A9BC
+}
+.destacado{
+  font: Arial;
+  font-style:italic;
+  color:#FBEFF5;
+  font-size:40px;  
+  }
+ .mini{
+    font-size:12px;
+   font-family: Comic Sans MS;
+   
+}
+
